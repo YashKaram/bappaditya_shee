@@ -17,13 +17,17 @@
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=BAPPADITYA_SHEE&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streak
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=BAPPADITYA_SHEE&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![snake](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
